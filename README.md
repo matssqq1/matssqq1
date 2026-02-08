@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi there 👋</h1>
-  <h3>Tech Stack</h3>
+  <h1>Tech Stack</h1>
 </div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
